@@ -1,0 +1,42 @@
+From: "Saved by Internet Explorer 11"
+Subject: Apache Tomcat/8.0.36 - Error report
+Date: Tue, 19 Feb 2019 23:49:25 +0530
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8080/JSF-Tutorial/SampleServlet.xhtml
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+=EF=BB=BF<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML><HEAD><META content=3D"IE=3D11.0000"=20
+http-equiv=3D"X-UA-Compatible">
+<TITLE>Apache Tomcat/8.0.36 - Error report</TITLE>
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">
+<STYLE type=3D"text/css">H1 =
+{font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76=
+;font-size:22px;} H2 =
+{font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76=
+;font-size:16px;} H3 =
+{font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76=
+;font-size:14px;} BODY =
+{font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;}=
+ B =
+{font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76=
+;} P =
+{font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-si=
+ze:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; =
+background-color: #525D76; border: none;}</STYLE>
+=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<H1>HTTP Status 404 - /JSF-Tutorial/SampleServlet.xhtml</H1>
+<DIV class=3D"line"></DIV>
+<P><B>type</B> Status report</P>
+<P><B>message</B> <U>/JSF-Tutorial/SampleServlet.xhtml</U></P>
+<P><B>description</B> <U>The requested resource is not =
+available.</U></P>
+<HR class=3D"line">
+
+<H3>Apache Tomcat/8.0.36</H3></BODY></HTML>
